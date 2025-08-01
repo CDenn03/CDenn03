@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Financial Web solutions<br>🌱 I’m currently learning NLP and hugging face transformers<br>💬 Ask me about Web<br>⚡ Fun fact : There a life of rest available for all
+🔭 I’m currently working on Financial Web solutions<br>🌱 I’m currently learning NLP and hugging face transformers<br>💬 Ask me about Web<br>⚡ Life fact : Jesus Loves You. His Love for you is endless.
 
 
 ## 🌐 Socials:
