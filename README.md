@@ -37,28 +37,6 @@ Experienced in architecting SaaS platforms and delivering clean, production-read
 
 ---
 
-### Selected Work
-
-**InsureMaster**
-Multi-tenant insurance SaaS platform with RBAC, maker-checker workflows, and secure authentication (JWT, 2FA)
-
-**Email Refiner**
-AI-powered Chrome extension for rewriting emails with tone control and real-time preview
-
----
-
-### Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa.vercel.app/api?username=CDenn03&show_icons=true&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=58a6ff&bg_color=0d1117"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa.vercel.app/api/top-langs/?username=CDenn03&layout=compact&hide_border=true&title_color=ffffff&text_color=9f9f9f&bg_color=0d1117"/>
-</p>
-
----
-
 <p align="center">
   <sub>Always building.</sub>
 </p>
