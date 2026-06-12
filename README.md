@@ -1,4 +1,4 @@
-<h1 align="center">Dennis Ndung'u</h1>
+<h1 align="center">CDenn</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineer;NextJS+%E2%80%A2+TypeScript+%E2%80%A2+Rust;Building+scalable+software+products" />
